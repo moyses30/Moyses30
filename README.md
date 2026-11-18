@@ -1,14 +1,19 @@
-## Hi there 👋
-Olá, eu sou o Moyses 👋
+## Olá, eu sou o Moyses 👋
+
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas (Universidade Pitágoras Unopar Anhanguera, 2025), de Juiz de Fora – MG.
 
 Sobre mim
 
-Trabalho na área de Compras e Almoxarifado da construção civil, onde lido no dia a dia com sistema de gestão (ERP), planilhas e controle de horas de funcionários. Essa rotina me ensinou a valorizar organização, processos bem definidos e atenção a detalhes, e é isso que levo para o código.
+Estou construindo minha trajetória em desenvolvimento de software, com foco em Python e desenvolvimento web, e busco minha primeira oportunidade na área de tecnologia. Valorizo organização, processos bem definidos e atenção a detalhes, e é isso que levo para o código.
 
-Estou construindo minha trajetória em desenvolvimento de software, com foco em Python e desenvolvimento web, e busco minha primeira oportunidade na área de tecnologia.
+Experiência
 
+Auxiliar de Compras e Almoxarifado — Construtora VTO 
+
+Uso diário de sistema de gestão (ERP) para lançamentos e controle de materiais
+Controle de horas de funcionários com conferência de dados e cumprimento de prazos
+Rotina que me deu vivência com processos, planilhas e rigor nos registros
 O que estou estudando e praticando
 Python: automações e manipulação de planilhas Excel com openpyxl
 Flask: aplicações web e templates com Jinja2
